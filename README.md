@@ -1,6 +1,4 @@
 # nLazy
-Lazy load images
-
 
 ### Usage
 Insert into your html
